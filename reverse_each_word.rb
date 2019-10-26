@@ -5,3 +5,4 @@ def reverse_each_word(sentence1) do
       puts "olleh, ereht dna woh era ?uoy"
     end 
   end 
+end 
